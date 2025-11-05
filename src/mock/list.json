@@ -1,0 +1,126 @@
+{
+  "perps": [
+    {
+      "date": "2025-11-04T00:00:00.000Z",
+      "dateString": "2025-11-04",
+      "createdAt": "2025-11-04T00:00:01.000Z",
+      "updatedAt": "2025-11-04T09:54:05.000Z",
+      "builderFee": "145.78666666",
+      "takerVolume": "36326488.92",
+      "makerVolume": "600.66",
+      "activeUser": 360
+    },
+    {
+      "date": "2025-11-03T00:00:00.000Z",
+      "dateString": "2025-11-03",
+      "createdAt": "2025-11-03T00:00:08.000Z",
+      "updatedAt": "2025-11-03T23:58:30.000Z",
+      "builderFee": "181.09333333",
+      "takerVolume": "46101719.79",
+      "makerVolume": "800.47",
+      "activeUser": 700
+    },
+    {
+      "date": "2025-11-02T00:00:00.000Z",
+      "dateString": "2025-11-02",
+      "createdAt": "2025-11-02T00:00:34.000Z",
+      "updatedAt": "2025-11-02T23:57:04.000Z",
+      "builderFee": "621.88444444",
+      "takerVolume": "1586845.95",
+      "makerVolume": "1700.45",
+      "activeUser": 550
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "dateString": "2025-11-01",
+      "createdAt": "2025-11-01T00:20:10.000Z",
+      "updatedAt": "2025-11-01T23:36:32.000Z",
+      "builderFee": "614.85777777",
+      "takerVolume": "1624642.2",
+      "makerVolume": "388995.35",
+      "activeUser": 450
+    },
+    {
+      "date": "2025-10-31T00:00:00.000Z",
+      "dateString": "2025-10-31",
+      "createdAt": "2025-10-31T00:13:40.000Z",
+      "updatedAt": "2025-10-31T23:54:38.000Z",
+      "builderFee": "960.11111111",
+      "takerVolume": "2473894.9",
+      "makerVolume": "3600.02",
+      "activeUser": 550
+    },
+    {
+      "date": "2025-10-30T00:00:00.000Z",
+      "dateString": "2025-10-30",
+      "createdAt": "2025-10-30T00:02:54.000Z",
+      "updatedAt": "2025-10-30T23:56:19.000Z",
+      "builderFee": "815.63111111",
+      "takerVolume": "20681098.66",
+      "makerVolume": "6000.37",
+      "activeUser": 940
+    },
+    {
+      "date": "2025-10-29T00:00:00.000Z",
+      "dateString": "2025-10-29",
+      "createdAt": "2025-10-29T00:00:46.000Z",
+      "updatedAt": "2025-10-29T23:58:08.000Z",
+      "builderFee": "295.86222222",
+      "takerVolume": "74019632.72",
+      "makerVolume": "7800.07",
+      "activeUser": 1180
+    },
+    {
+      "date": "2025-10-28T00:00:00.000Z",
+      "dateString": "2025-10-28",
+      "createdAt": "2025-10-28T00:00:22.000Z",
+      "updatedAt": "2025-10-28T23:59:39.000Z",
+      "builderFee": "112.48444444",
+      "takerVolume": "37562370.04",
+      "makerVolume": "6700.78",
+      "activeUser": 1830
+    }
+  ],
+  "stocks": [
+    {
+      "date": "2025-11-03T00:00:00.000Z",
+      "dateString": "2025-11-03",
+      "createdAt": "2025-11-03T04:51:52.000Z",
+      "updatedAt": "2025-11-03T22:37:52.000Z",
+      "builderFee": "0.04",
+      "takerVolume": "81.89",
+      "makerVolume": "8169.07",
+      "activeUser": 2
+    },
+    {
+      "date": "2025-10-30T00:00:00.000Z",
+      "dateString": "2025-10-30",
+      "createdAt": "2025-10-30T10:21:40.000Z",
+      "updatedAt": "2025-10-30T19:57:56.000Z",
+      "builderFee": "14.535",
+      "takerVolume": "29078.43",
+      "makerVolume": "1903.82",
+      "activeUser": 4
+    },
+    {
+      "date": "2025-10-29T00:00:00.000Z",
+      "dateString": "2025-10-29",
+      "createdAt": "2025-10-29T18:03:19.000Z",
+      "updatedAt": "2025-10-29T19:22:27.000Z",
+      "builderFee": "0.655",
+      "takerVolume": "1319.58",
+      "makerVolume": "0",
+      "activeUser": 2
+    },
+    {
+      "date": "2025-10-28T00:00:00.000Z",
+      "dateString": "2025-10-28",
+      "createdAt": "2025-10-28T10:53:15.000Z",
+      "updatedAt": "2025-10-28T17:26:36.000Z",
+      "builderFee": "2.53",
+      "takerVolume": "5068.28",
+      "makerVolume": "296.46",
+      "activeUser": 3
+    }
+  ]
+}
