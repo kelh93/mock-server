@@ -45,11 +45,14 @@ vercel --prod
 mock-server
 ├── README.md
 ├── package.json
+├── pnpm-lock.yaml
 ├── src
-│   ├── index.js # 本地开发服务器
+│   ├── api
+│   │   └── index.js
+│   ├── index.js
 │   └── mock
-│       └── list.json # Mock 数据文件
-└── vercel.json # Vercel 配置文件
+│       └── list.json
+└── vercel.json
 ``` 
 
 ## 添加新的 Mock 接口 
